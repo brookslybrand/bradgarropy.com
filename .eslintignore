@@ -4,6 +4,7 @@
 # build
 /.cache
 /build
+/functions
 /public/build
 /tsconfig.tsbuildinfo
 
